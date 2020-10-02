@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e743bf52a3d95b2dace3b35fb178d099",
+    "revision": "1996e2b5f9aa227506f26f9928006421",
     "url": "/milow6/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/milow6/static/css/2.2a682f77.chunk.css"
   },
   {
-    "revision": "26d11971ab9df318a363",
+    "revision": "9383b933ec4d503c5c3e",
     "url": "/milow6/static/css/main.0ca4d17e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/milow6/static/js/2.b2cb75cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26d11971ab9df318a363",
-    "url": "/milow6/static/js/main.05908725.chunk.js"
+    "revision": "9383b933ec4d503c5c3e",
+    "url": "/milow6/static/js/main.6e02192e.chunk.js"
   },
   {
     "revision": "843252e1f834f48cee9b",

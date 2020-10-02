@@ -65,7 +65,7 @@ export const Reserveren: FC<ReserverenProps> = ({
     if (data.free < appState.number) setError(true);
 
     const dag =
-      slot.date === 2410 ? 'zaterdag 24 oktober' : 'zaterdag 25 oktober';
+      slot.date === 2410 ? 'zaterdag 24 oktober' : 'zondag 25 oktober';
     const tijd = `${slot.time}:00`;
 
     try {
